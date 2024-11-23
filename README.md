@@ -3,7 +3,8 @@
 Data Entry:
 
 Log subject, duration, and optional notes
-All data is stored in localStorage (persists between sessions)
+All data is stored in localStorage (persists between sessions), study data is stored in the browser's localStorage, 
+which is a web storage API used to save key-value pairs locally within the user's browser.
 Simple, clean form interface
 
 Visualization:
